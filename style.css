@@ -8,3 +8,10 @@
   box-shadow: none;
   border: none;
 }
+
+.black-background {
+  background-color: #292929;
+  color: whitesmoke;
+  padding-top: 50px;
+  padding-bottom: 30px;
+}
