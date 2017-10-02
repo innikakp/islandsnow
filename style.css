@@ -3,3 +3,11 @@
   box-shadow: none;
   border: none;
 }
+
+.ui.centered.grid.container {
+  margin-top: 40px;
+}
+
+.ui.fluid.image {
+  margin-top: 30px;
+}
